@@ -60,6 +60,7 @@
 		8474D96325EEAFC500D35D4E /* MovieList-iOS */ = {
 			isa = PBXGroup;
 			children = (
+				8474D98B25F0542C00D35D4E /* Service */,
 				8474D98725F01B9900D35D4E /* Controller */,
 				8474D96425EEAFC500D35D4E /* AppDelegate.swift */,
 				8474D96625EEAFC500D35D4E /* SceneDelegate.swift */,
@@ -67,7 +68,6 @@
 				8474D96D25EEAFC600D35D4E /* Assets.xcassets */,
 				8474D96F25EEAFC600D35D4E /* LaunchScreen.storyboard */,
 				8474D97225EEAFC600D35D4E /* Info.plist */,
-				8474D97925EEC1D500D35D4E /* MoviesManager.swift */,
 			);
 			path = "MovieList-iOS";
 			sourceTree = "<group>";
@@ -79,6 +79,14 @@
 				8474D98825F01BC600D35D4E /* TabbarController.swift */,
 			);
 			path = Controller;
+			sourceTree = "<group>";
+		};
+		8474D98B25F0542C00D35D4E /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				8474D97925EEC1D500D35D4E /* MoviesManager.swift */,
+			);
+			path = Service;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

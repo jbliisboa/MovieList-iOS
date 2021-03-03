@@ -18,8 +18,6 @@ import UIKit
 //Get most popular movies
 //https://api.themoviedb.org/3/movie/latest?api_key=caa820e085c4c624da54475b140f0cbd&language=en-US/discover/movie?sort_by=popularity.desc
 
-//
-
 class ViewController: UIViewController {
     
     
